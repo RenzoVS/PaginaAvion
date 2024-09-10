@@ -1,9 +1,7 @@
 .pagina{
     padding-bottom: 20px;
 }
-.menu{
-    border: red solid;
-}
+
 
 .menu p{
     margin: 0;
@@ -19,9 +17,7 @@
     text-decoration: underline;
 }
 
-.noticias{
-    border: purple solid;
-}
+
 
 .noticias p {
     margin: 0;
@@ -36,9 +32,7 @@
     color: #2E8B57;
 }
 
-.notis{
-    border: blue solid;
-}
+
 
 .notis p {
     margin: 0;
